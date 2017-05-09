@@ -1,10 +1,13 @@
 # Quadratic Equations Solver
 
+Функция вычисляет корни квадратного трехчлена.
 [TODO. There will be project description]
 
 # How to Use
 
-[TODO]
+```
+get_roots(a, b, c)
+```
 
 # How to Launch Tests
 
