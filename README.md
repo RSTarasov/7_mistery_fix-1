@@ -1,6 +1,7 @@
 # Quadratic Equations Solver
 
-Функция вычисляет корни квадратного трехчлена.
+If you have an equation of the form "ax2 + bx + c = 0", this function can solve it for you.
+Just enter the values of a, b and c as parameters.
 
 # How to Use
 
